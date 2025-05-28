@@ -56,4 +56,4 @@ jobs:
           app-name: 'peer-marking'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAC63AFD921C4ABB8BF5C804CD96C19B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02CFA8A125184DA3A9D112BCF8F61D6A }}
